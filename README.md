@@ -2,7 +2,7 @@
 
 Coding assignments for CS540 
 
-HW1: using A-star search and BFS to find maze optimize solution
+HW1: using A-star search and BFS to find maze complete and optimized solution
 
 HW2: using game state and AlphaBeta Pruning to generate winning moves of "TakeStones"
 
